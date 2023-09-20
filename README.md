@@ -1,2 +1,4 @@
 # ai-intro
-a repository for introductory notes
+A repository for introductory notes
+
+# Introduction to machine learning
